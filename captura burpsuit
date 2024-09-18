@@ -1,0 +1,123 @@
+Request	Payload 1	Payload 2	Status code	Response received	Error	Timeout	Length	/form>\r\n\x09\x09	Comment
+115	smithy	password	200	17	false	false	4742	<p>Welcome to the password protected area smithy</p><img src="/hackable/users/smithy.jpg" />	
+111	admin	password	200	14	false	false	4740	<p>Welcome to the password protected area admin</p><img src="/hackable/users/admin.jpg" />	
+0			200	20	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+1	admin	root	200	20	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+2	1337	root	200	6	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+3	gordonb	root	200	5	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+4	pablo	root	200	18	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+5	smithy	root	200	4	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+6	root	root	200	3	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+11		root	200	19	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+13	1337	admin	200	15	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+15	pablo	admin	200	5	false	false	4703	<pre><br />Username and/or password incorrect.</pre>	
+7	1234	root	200	3	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+8	user	root	200	5	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+9	Administrator	root	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+10	usuario	root	200	3	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+12	admin	admin	200	5	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+14	gordonb	admin	200	8	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+16	smithy	admin	200	5	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+17	root	admin	200	7	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+18	1234	admin	200	5	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+19	user	admin	200	3	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+20	Administrator	admin	200	4	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+21	usuario	admin	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+22		admin	200	5	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+23	admin	1234	200	9	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+24	1337	1234	200	4	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+25	gordonb	1234	200	6	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+26	pablo	1234	200	20	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+27	smithy	1234	200	8	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+28	root	1234	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+29	1234	1234	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+30	user	1234	200	22	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+31	Administrator	1234	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+32	usuario	1234	200	21	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+33		1234	200	21	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+34	admin	user	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+35	1337	user	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+36	gordonb	user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+37	pablo	user	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+38	smithy	user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+39	root	user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+40	1234	user	200	20	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+41	user	user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+42	Administrator	user	200	20	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+43	usuario	user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+44		user	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+45	admin	Administrator	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+46	1337	Administrator	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+47	gordonb	Administrator	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+48	pablo	Administrator	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+49	smithy	Administrator	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+50	root	Administrator	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+51	1234	Administrator	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+52	user	Administrator	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+53	Administrator	Administrator	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+54	usuario	Administrator	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+55		Administrator	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+56	admin	administrador	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+57	1337	administrador	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+58	gordonb	administrador	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+59	pablo	administrador	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+60	smithy	administrador	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+61	root	administrador	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+62	1234	administrador	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+63	user	administrador	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+64	Administrator	administrador	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+65	usuario	administrador	200	20	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+66		administrador	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+67	admin	12345	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+68	1337	12345	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+69	gordonb	12345	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+70	pablo	12345	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+71	smithy	12345	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+72	root	12345	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+73	1234	12345	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+74	user	12345	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+75	Administrator	12345	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+76	usuario	12345	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+77		12345	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+78	admin	123456	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+79	1337	123456	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+80	gordonb	123456	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+81	pablo	123456	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+82	smithy	123456	200	13	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+83	root	123456	200	13	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+84	1234	123456	200	12	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+85	user	123456	200	12	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+86	Administrator	123456	200	12	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+87	usuario	123456	200	12	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+88		123456	200	12	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+89	admin	anonymous	200	13	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+90	1337	anonymous	200	13	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+91	gordonb	anonymous	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+92	pablo	anonymous	200	13	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+93	smithy	anonymous	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+94	root	anonymous	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+95	1234	anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+96	user	anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+97	Administrator	anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+98	usuario	anonymous	200	19	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+99		anonymous	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+100	admin	Anonymous	200	2	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+101	1337	Anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+102	gordonb	Anonymous	200	18	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+103	pablo	Anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+104	smithy	Anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+105	root	Anonymous	200	17	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+106	1234	Anonymous	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+107	user	Anonymous	200	3	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+108	Administrator	Anonymous	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+109	usuario	Anonymous	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+110		Anonymous	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+112	1337	password	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+113	gordonb	password	200	14	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+114	pablo	password	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+116	root	password	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+117	1234	password	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+118	user	password	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+119	Administrator	password	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+120	usuario	password	200	15	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	
+121		password	200	16	false	false	4702	<pre><br />Username and/or password incorrect.</pre>	

@@ -1,0 +1,10 @@
+admin
+1337
+gordonb
+pablo
+smithy
+root
+1234
+user
+Administrator
+usuario
